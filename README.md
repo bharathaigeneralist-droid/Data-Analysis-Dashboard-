@@ -22,3 +22,4 @@ The objective of this project is to analyze Swiggy food delivery data to underst
 The project started with data collection and cleaning using Excel to handle missing and inconsistent values. Key performance indicators such as total sales, average rating, total orders, and average order value were calculated. Data was then analyzed using pivot tables and aggregations to identify trends in pricing, ratings, and order frequency. Finally, the results were visualized and interpreted to derive actionable insight
 
 ## Dashboard
+<img width="1228" height="761" alt="Screenshot Dashboards " src="https://github.com/user-attachments/assets/203c422c-d1c4-4a8f-b6f5-07bd730934d2" />
