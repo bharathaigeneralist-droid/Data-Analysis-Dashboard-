@@ -7,9 +7,13 @@ The objective of this project is to analyze Swiggy food delivery data to underst
 
 ## Questions’ (KPI’s)
 -Total Sales-Overall revenue generated from food orders. 
+
 -Average Rating-Customer satisfaction level across all restaurants.
+
  -Average Order Value-Revenue per order.
+ 
  -Ratings Count-Total number of customer reviews.
+ 
  -Total Orders-Number of food orders received.
  
 - Dashboard Interaction <a href="https://github.com/bharathaigeneralist-droid/Data-Analysis-Dashboard-/blob/main/Screenshot%20Dashboards%20.png">View Dashboard</a>
